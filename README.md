@@ -360,7 +360,7 @@ npm start
 # 檢查連接埠使用情況
 lsof -i :3000  # 前端
 lsof -i :8080  # 後端
-lsof -i :5432  # 資料庫
+lsof -i :15432  # 資料庫
 
 # 修改 .env 中的 PORT 設定
 ```
